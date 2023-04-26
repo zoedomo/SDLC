@@ -1,4 +1,4 @@
-# SDLC
+# SDLC Sprint Review and Retrospective
 
 #How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 Interpreting user needs is a critical aspect of software development. Understanding user requirements is essential for creating software that meets their needs. Creating user stories can help in this regard, as they provide a detailed description of user needs and requirements. By creating user stories, developers can gain a better understanding of what users want and how they can create software that meets those needs.
